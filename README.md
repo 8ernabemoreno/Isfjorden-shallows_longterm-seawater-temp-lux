@@ -19,7 +19,8 @@ As part of an ecological monitoring initiative, the **Institute of Oceanology Po
 
 Further details about logger deployment and study site overall can be found in the data descriptor:
 
-- **[Moreno B](https://orcid.org/0000-0002-9751-6307)**, Sowa A, Reginia K, Balazy P, Chelchowski M, Ronowicz M, Kuklinski P (in press) Sea water temperature and light intensity at high-Arctic subtidal shallows – 16 years perspective. *Scientific Data*, doi pending
+- Moreno B et al. (2024) Sea water temperature and light intensity at high-Arctic subtidal shallows – 16 years perspective. Scientific Data, 11, 227, **[https://doi.org/10.1038/s41597-024-03054-0](https://doi.org/10.1038/s41597-024-03054-0)**
+
 
 ## Additional resources
 Additionally, a series of useful links of the conventions/standards/tools, and other resources used:
